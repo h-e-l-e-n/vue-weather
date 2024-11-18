@@ -3,7 +3,6 @@ import headerInfo from './components/headerInfo.vue'
 import mainInfo from './components/mainInfo.vue'
 import { ref, onMounted } from 'vue'
 import { useWeatherStore } from './stores/currentWeather'
-// import { Rain, Cloud, CloudSunny, SunLight } from '@iconoir/vue';
 
 
 const weatherStore = useWeatherStore()

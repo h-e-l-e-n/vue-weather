@@ -1,5 +1,5 @@
 <script setup>
-import { Rain, Cloud, CloudSunny, SunLight } from '@iconoir/vue'
+// import { Rain, Cloud, CloudSunny, SunLight } from '@iconoir/vue'
 import { useWeatherStore } from '../stores/currentWeather'
 import { storeToRefs } from 'pinia'
 
